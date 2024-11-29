@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/assessment-task/clientlibs"/>
+    <filter root="/apps/assessment-task/components"/>
+    <filter root="/apps/assessment-task/i18n"/>
+</workspaceFilter>
